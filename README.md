@@ -1,4 +1,4 @@
-# Churn_Prediction_Model_(ANN)
+# Churn_Prediction_Model_(ann)
 
 
 
